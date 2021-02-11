@@ -1,0 +1,13 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0 100px;
+}
+
+li a{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.carousel-control-next-icon{
+    color: red;
+}
